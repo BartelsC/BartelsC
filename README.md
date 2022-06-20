@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cat!
+- 👋 Hi, I’m Catja!
 - 👀 I’m interested in Data Science projects as a aspiring Data Scientist!
 - 🌱 I’m currently refreshing my Machine Learning knowledge!
 
