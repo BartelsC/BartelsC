@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Catja!
-- 👀 I’m interested in Data Science projects as a aspiring Data Scientist!
-- 🌱 I’m currently refreshing my Machine Learning knowledge!
+- 👀 I’m a Data Scientist and currently improving my Machine Learning skills.
+- 🌱 I’m also looking to do a Ph.D. with a research focus on Machine Learning for Health starting in 2023!
 
 <!---
 BartelsC/BartelsC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
