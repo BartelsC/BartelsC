@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Catja!
 - 👀 I’m a Data Analyst and currently improving my Machine Learning skills.
-- 🌱 I’m also looking to do more research in Machine Learning and Deep Learning Applications for Computer Vision!
 
 My current project is the implementation of a CNN from scratch using PyTorch's Custom NN Modules.
 This is to gain a better understanding how CNN's work :) 
